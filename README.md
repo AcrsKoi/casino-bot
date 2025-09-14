@@ -42,11 +42,23 @@ Execute the bot using the command:
 Now, time for the commands.
 
 Work: Makes the author "work" and add a random number between 1 and 700 (you can change it in the code) and add it into balances.json with his discord id.
+
+
 Bet: It let the author to bet a value and an item ($bet int(value) str(item)).
+
+
 Give: If the author is good enough, he can give part of his money to a person ($give int(value) ping)).
+
+
 Leaderboard: Shows a top 10 leaderboard with anyone who's in the balances.json, if the person isn't in the server, the bot will recognize him as "foreigner", you can change that too.
+
+
 Credits: Self explain
+
+
 Bank: Let the author to see how many money he have.
+
+
 Commands: Send a list with all the commands (EDITABLE, IF YOU CREATE A NEW COMMAND, MAKE SURE TO ADD IT IN THIS LIST).
 
 credits: AcrsKoi
